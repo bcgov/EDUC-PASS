@@ -10,5 +10,4 @@
         <h1>Hello Shirley</h1>
     </div>
 </div>
-<%@ include file="assets/template/footer.jsp" %>
 </html>
